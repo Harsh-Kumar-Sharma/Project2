@@ -8,6 +8,9 @@ npm i
 ```
 
 Then, run the development server:
+There are two command run first :-
+set NODE_OPTIONS=--openssl-legacy-provider
+ set NODE_OPTIONS=--openssl-legacy-provider
 
 ```bash
 npm run dev
